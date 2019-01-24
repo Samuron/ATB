@@ -2,11 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.1</TargetFramework>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Ievgen Makukh; Borys Levytskyi</Authors>
     <Description>Пакет АТБ</Description>
     <PackageLicenseUrl>https://github.com/Samuron/ATB/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Samuron/ATB</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Samuron/ATB/master/atb_log.png</PackageIconUrl>
   </PropertyGroup>
 
 </Project>
